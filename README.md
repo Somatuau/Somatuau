@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Somatuau
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested to be a Web Developer
 - 🌱 I’m currently learning PHP 
 - 💞️ I’m looking to collaborate on Javascrip
 - 📫 How to reach me contact me 
